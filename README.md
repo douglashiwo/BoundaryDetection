@@ -4,7 +4,7 @@
 
 2.For details about the boundary detection model TriBERT and how the hybrid essay dataset was constructed.Please refer to our paper:
 
-      Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid Essay in Education
+      **Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid Essay in Education**
       BibTex:
       @article{
           zeng2023towards,
