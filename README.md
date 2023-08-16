@@ -18,19 +18,37 @@
 ----------------------------------**********************-----------------------------------
 
 essay_id: The id number of the original source essay.
+
 essayset: the id of the prompt of the source essay.
+
 essay: The original source essay on which the hybrid essay is based.
+
 score1:	The score given by rater 1 for the original source essay.
+
 score2: The score given by rater 2 for the original source essay.
+
 score: The final score for the original source essay.
+
 ratio: Randomly generated number, PLEASE IGNORE THIS.
+
 train_ix: This indicator is used to specify to which set (Train/Valid/Test) the current piece of data belongs.
-sent_and_label: The list of <sentence, label> combinations (Each sentence comes from the hybrid essay), i.e., sentences and their labels.  Label here means the authorship of the sentence. For example, label 'human' mean human-written and label 'machine' means ChatGPT-generated.
+
+sent_and_label: The list of <sentence, label> combinations (Each sentence comes from the hybrid essay), i.e., sentences and their labels.  Label here means the 
+authorship of the sentence. For example, label 'human' mean human-written and label 'machine' means ChatGPT-generated.
+
 hybrid_text: The human-AI collaboratively written by ChatGPT and students.
+
 boundary_ix: The list containing all boundaries for the above hybrid essay.
+
 boundary_num: The number of boundaries of this hybrid essay.
-author_seq: The structure of the hybrid essay. For example, 'H_M' means that the hybrid essay begins with human-written sentences and ends with machine-generated sentences (ChatGPT). 'M_H_M' means that the beginning text and ending text are machine-generated while the middle part is human-written.
+
+author_seq: The structure of the hybrid essay. For example, 'H_M' means that the hybrid essay begins with human-written sentences and ends with machine-generated 
+sentences (ChatGPT). 'M_H_M' means that the beginning text and ending text are machine-generated while the middle part is human-written.
+
 human_part: Concatenation of all human-written sentences (extracted from the hybrid text).
+
 machine_part: Concatenation of all ChatGPT-generated sentences (extracted from the hybrid text).
+
+
 
 ----------------------------------**********************-----------------------------------
