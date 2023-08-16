@@ -19,7 +19,7 @@
 
 essay_id: The id number of the original source essay.
 
-essayset: the id of the prompt of the source essay.
+essayset: The id of the prompt of the source essay.
 
 essay: The original source essay on which the hybrid essay is based.
 
