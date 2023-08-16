@@ -3,7 +3,8 @@
 1.These are the implemented codes and hybrid text dataset for our boundary detection model TriBERT (https://arxiv.org/abs/2307.12267).
 
 2.For details about the boundary detection model TriBERT and how the hybrid essay dataset was constructed.Please refer to our paper:
-      *Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid Essay in Education*
+
+      # Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid Essay in Education
       BibTex:
       @article{
           zeng2023towards,
@@ -12,8 +13,8 @@
           journal={arXiv preprint arXiv:2307.12267},
           year={2023}
       }
+      
 4.Particularly, here we describe the meaning of columns from data.xlsx (hybrid essay dataset)
-
 ----------------------------------**********************-----------------------------------
 
 essay_id: The id number of the original source essay.
