@@ -1,6 +1,6 @@
 # BoundaryDetection(Accepted as an AAAI 2024 full paper)
 
-1.These are the implemented codes and hybrid text dataset for our boundary detection model TriBERT (https://arxiv.org/abs/2307.12267).
+1.These are the implemented codes and hybrid text dataset for our boundary detection model TriBERT (https://arxiv.org/abs/2307.12267), which has been accepted as a full paper on AAAI 2024.
 
 2.For details about the boundary detection model TriBERT and how the hybrid essay dataset was constructed.Please refer to our paper:
 
