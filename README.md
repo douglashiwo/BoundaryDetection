@@ -10,8 +10,8 @@
           zeng2023towards,
           title={Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid Essay in Education},
           author={Zeng, Zijie and Sha, Lele and Li, Yuheng and Yang, Kaixun and Ga{\v{s}}evi{\'c}, Dragan and Chen, Guanliang},
-          journal={arXiv preprint arXiv:2307.12267},
-          year={2023}
+          journal={Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+          year={2024}
       }
       
 4.Particularly, here we describe the meaning of columns from data.xlsx (hybrid essay dataset)
